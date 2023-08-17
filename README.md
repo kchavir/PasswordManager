@@ -18,21 +18,25 @@ This is the program that allows user entering  or randomly generating website pa
 Enter the data which you want to save. To add your own password press "Add" : <br/>
 <img src="https://github.com/kchavir/PasswordManager/blob/main/AddingOwnPassword.png?raw=true" height="80%" width="80%" alt="Entering Data"/>
 <br />
+<br />
 
 <p align="center">
 To genereate random password press "Generate": <br/>
 <img src="https://github.com/kchavir/PasswordManager/blob/main/GeneratingRandomPassword.png?raw=true" height="80%" width="80%" alt="Generate Random Password"/>
+<br />
 <br />
 
 <p align="center">
 Press "Ok" in a Pop-Up window to proceed: <br/>
 <img src="https://github.com/kchavir/PasswordManager/blob/main/Pop-UpWindow.png?raw=true" height="80%" width="80%" alt="Pop-Up Window"/>
 <br />
+<br />
 
 
 <p align="center">
 Text file with user's passwords : <br/>
 <img src="https://github.com/kchavir/PasswordManager/blob/main/TextFile.png?raw=true" height="80%" width="80%" alt="TextFile"/>
+<br />
 <br />
   
 <br />
