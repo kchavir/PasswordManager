@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This is the program that allows user entering  or randomly generating website passwords and saving them to the "TXT" file.  <br />
+This is the program that allows user entering and randomly generating website passwords and saving them to the "TXT" file.  <br />
 
 
 <h2>Languages and Utilities Used</h2>
